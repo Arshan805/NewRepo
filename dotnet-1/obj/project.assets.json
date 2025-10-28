@@ -1,0 +1,71 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Razia Sulthana\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Razia Sulthana\\OneDrive\\Desktop\\Dotnet\\dotnet-1\\dotnet-1.csproj",
+      "projectName": "dotnet-1",
+      "projectPath": "C:\\Users\\Razia Sulthana\\OneDrive\\Desktop\\Dotnet\\dotnet-1\\dotnet-1.csproj",
+      "packagesPath": "C:\\Users\\Razia Sulthana\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Razia Sulthana\\OneDrive\\Desktop\\Dotnet\\dotnet-1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Razia Sulthana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://pkgs.dev.azure.com/SreekanthTraining/DemoDotNetApp/_packaging/SreeTrainingMayBatch/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/sales-projects/bd556e24-b9d0-450d-8b1c-10969ed4fab0/_packaging/d2152fe8-752b-450e-babc-e43116782384/nuget/v2/": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
